@@ -1,1 +1,1 @@
-# https://ashishr.vercel.app/
+ashishr.vercel.app
