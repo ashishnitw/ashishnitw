@@ -1,5 +1,5 @@
 ### Hi there 👋
-I am [Ashish Ranjan](https://linkedin.com/in/ashishnitw). Full stack developer
+I am [Ashish Ranjan](https://linkedin.com/in/ashishrx). Full stack developer
 
 
 #### Awards
@@ -7,5 +7,5 @@ I am [Ashish Ranjan](https://linkedin.com/in/ashishnitw). Full stack developer
 #### Socials
 - [Website](https://x.com/ashishrx_)
 - [Twitter](https://x.com/ashishrx_)
-- [LinkedIn](https://www.linkedin.com/in/ashishnitw)
+- [LinkedIn](https://www.linkedin.com/in/ashishrx)
 - [Instagram](https://x.com/ashishrx_)
