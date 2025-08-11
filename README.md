@@ -1,5 +1,5 @@
 ### Hi there 👋
-I am [Ashish Ranjan](https://linkedin.com/in/ashishrx). A freelancer building full-stack applications.
+I am [Ashish Ranjan](https://linkedin.com/in/ashishrx). A software engineer who codes for passion and designs for fun.
 
 
 
